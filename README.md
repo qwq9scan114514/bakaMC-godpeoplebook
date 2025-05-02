@@ -38,7 +38,7 @@
 
 - 在**Add a description**中写一下这位神人的详细信息。
 
-- 点击**Paste, drop, or click to add files**,上传图片。
+- 点击**Paste, drop, or click to add files**,上传图片（如果有的话）。
 
 - 点击**Create**。
 
