@@ -32,7 +32,7 @@
 
 ## 使用方法
 
-- 进入[issuses](https://github.com/qwq9scan114514/bakaMC-godpeoplebook/issues)界面，点击**New issuse**.
+- 进入[issues](https://github.com/qwq9scan114514/bakaMC-godpeoplebook/issues)界面，点击**New issue**.
 
 - 在**Add a title**中填写”上传“。
 
@@ -56,7 +56,7 @@ git clone https://github.com/qwq9scan114514/bakaMC-godpeoplebook.githttps://gith
 
 - 寻找以**神人的qq群里的名称**为名的文件夹并打开，有些是以MCID为名称的
 
-- 一般来说，名字的意义是`年份 月份 几号 次数`，一次事件有两个文件，第一个是图片，第二个文本文件是对该事件的描述，以前的周目的神人本只有**次数**。
+- 一般来说，名字的意义是`年份 月份 几号 次数.txt`，一次事件有两个文件，第一个是图片，第二个文本文件是对该事件的描述，以前的周目的神人本只有**次数**。
 
 ---
 
