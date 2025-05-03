@@ -64,7 +64,7 @@ git clone https://github.com/qwq9scan114514/bakaMC-godpeoplebook.githttps://gith
 
 ---
 
-上周目的乐子等级现在继续保留，但本周目不会再有乐子等级
+上周目的乐子等级现在继续保留 **（凡<灵<王<皇<帝<仙<鸿蒙）** ，但本周目不会再有乐子等级
 
 ---
 
